@@ -20,7 +20,7 @@ contract YFNP is ERC20Interface {
 
   constructor() public {
     name = "Pool.YFI.Name";
-    symbol = "YFNP";
+    symbol = "YFNy";
     decimals = 18;
     // 
      totalSupply = 6000000* (10 ** 18);
